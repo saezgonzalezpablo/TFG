@@ -1,8 +1,8 @@
 ***
 
-##Este código es una copia adaptada del Grbl v1.1 el cual se irá adaptando y mejorando de acorde a nuestras necesidades, en esta primera versión se ha adaptado para la primera versión de el láser.
+Este código es una copia adaptada del Grbl v1.1 el cual se irá adaptando y mejorando de acorde a nuestras necesidades, en esta primera versión se ha adaptado para la primera versión de el láser.
 
-##Todos los derechos e información acerca del proyecto original.
+Todos los derechos e información acerca del proyecto original.
 
 ***
 
